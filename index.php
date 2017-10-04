@@ -112,11 +112,11 @@ echo "<h3>To identify whether each year is leap year or not:</h3>" ;    //10.Ide
  		switch($result){
 
  		case "leap":
- 		echo "True<br>";
+ 		echo "$y is True<br>";
  		break;
 
  		default:
- 		echo "False <br>";
+ 		echo "$y is False <br>";
  		break;
 }
  }
