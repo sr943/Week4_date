@@ -121,15 +121,12 @@ echo "<h3>To identify whether each year is leap year or not:</h3>" ;    //10.Ide
 }
  }
 
-
-
-
-
-
-
-
-
 }
+public function __destruct() {
+
+      echo '<h2><center><u>Done</u></center></h2> </br> </br>';
+
+    }
 
 }
 
